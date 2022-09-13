@@ -1,12 +1,10 @@
-# Project Title
-
-Zerozilla-task
+# Rest API
 
 ## Description
 
-Solution to nodejs task by zerozilla
-
-## Getting Started
+ REST API with token-based authentication and handling various HTTP status codes as per REST standards.
+ 
+ ## Getting Started
 
 ### Installing
 
